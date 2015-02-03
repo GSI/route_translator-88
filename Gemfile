@@ -43,5 +43,6 @@ group :development, :test do
   gem 'spring'
 
   gem 'testrbl'
+  gem 'route_translator', '4.0.0'
 end
 
